@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Camry",
+    "year": 2020,
+    "price": 24000,
+    "type": "Sedan",
+    "brand": "Toyota"
+  },
+  {
+    "id": 2,
+    "name": "Honda Accord",
+    "year": 2019,
+    "price": 22000,
+    "type": "Sedan",
+    "brand": "Honda"
+  },
+  {
+    "id": 3,
+    "name": "Ford Mustang",
+    "year": 2021,
+    "price": 30000,
+    "type": "Coupe",
+    "brand": "Ford"
+  },
+  {
+    "id": 4,
+    "name": "Chevrolet Malibu",
+    "year": 2018,
+    "price": 21000,
+    "type": "Sedan",
+    "brand": "Chevrolet"
+  },
+  {
+    "id": 5,
+    "name": "Tesla Model 3",
+    "year": 2022,
+    "price": 35000,
+    "type": "Sedan",
+    "brand": "Tesla"
+  },
+  {
+    "id": 6,
+    "name": "BMW 3 Series",
+    "year": 2020,
+    "price": 41000,
+    "type": "Sedan",
+    "brand": "BMW"
+  },
+  {
+    "id": 7,
+    "name": "Audi A4",
+    "year": 2019,
+    "price": 39000,
+    "type": "Sedan",
+    "brand": "Audi"
+  },
+  {
+    "id": 8,
+    "name": "Mercedes-Benz C-Class",
+    "year": 2021,
+    "price": 42000,
+    "type": "Sedan",
+    "brand": "Mercedes-Benz"
+  },
+  {
+    "id": 9,
+    "name": "Hyundai Sonata",
+    "year": 2020,
+    "price": 23000,
+    "type": "Sedan",
+    "brand": "Hyundai"
+  },
+  {
+    "id": 10,
+    "name": "Kia Optima",
+    "year": 2018,
+    "price": 20000,
+    "type": "Sedan",
+    "brand": "Kia"
+  }
+]
